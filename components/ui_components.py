@@ -212,7 +212,7 @@ def render_footer():
     st.markdown("---")
     st.markdown(
         "<div style='text-align: center; color: #666; padding: 20px;'>"
-        "Medghor.com Focus Item PDF Generator | Made by Tushar"
+        "Medghor.com Focus Item PDF Generator💙💙💙 | Made by Tushar 💙💙💙"
         "|---© 2025 Medghor. All rights reserved."
         "</div>",
         unsafe_allow_html=True
