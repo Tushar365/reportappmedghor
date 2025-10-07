@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database
+*.db
+offers.db
+
+# Streamlit
+.streamlit/
+
+# Environments
+.env
+.venv
+env/
+venv/
+offer_env/
