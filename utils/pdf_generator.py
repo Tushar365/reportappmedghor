@@ -61,7 +61,7 @@ def create_title_section(start_date, end_date, contact_number="1234567890"):
     title_style = PDFStyles.get_title_style()
     
     title_text = (
-        f"MEDGHOR OFFER ITEM CATEGORY<br/>"
+        f"⭐⭐OFFER ITEM⭐⭐<br/>"
         f"FROM {start_date.strftime('%d.%m.%Y')} TO {end_date.strftime('%d.%m.%Y')}<br/>"
         f"CONTACT - {contact_number}"
     )
