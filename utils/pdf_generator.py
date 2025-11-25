@@ -249,7 +249,8 @@ if __name__ == "__main__":
         end_date=end,
         brand_name=brand,
         products=products_list,
-        rate_label="Offer Price"
+        rate_label="Offer Price",
+        contact_number="+919883254709"
     )
     
     # Save to file
